@@ -2,9 +2,10 @@
 title: Sideloading
 description: Enable your wiki to run without internet access
 published: true
-date: 2020-07-04T21:15:31.336Z
+date: 2026-08-30T00:22:01.197Z
 tags: 
 editor: markdown
+dateCreated: 2019-06-16T20:22:10.795Z
 ---
 
 # Basics
@@ -22,7 +23,7 @@ This is achieved by manually downloading a set of files and placing them in a sp
 
 In order to install locale packages, you need the **master locale file** + at least one **locale package file**.
 
-> The files can be downloaded from https://github.com/Requarks/wiki-localization. These files are made up to date every night.
+> The files can be downloaded from https://github.com/Requarks/wiki-locales-v2. These files are made up to date every night.
 {.is-info}
 
 ## 1 - Master File
