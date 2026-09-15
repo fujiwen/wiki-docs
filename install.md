@@ -2,7 +2,7 @@
 title: Installation
 description: How to install Wiki.js
 published: true
-date: 2023-05-25T22:35:46.343Z
+date: 2026-09-15T04:49:51.739Z
 tags: setup
 editor: markdown
 dateCreated: 2019-02-15T04:22:28.058Z
@@ -33,6 +33,7 @@ dateCreated: 2019-02-15T04:22:28.058Z
 - [Install on Azure Web App](/install/azurewebapp)
 - [Install on Heroku](/install/heroku)
 - [Install on IBM Cloud Foundry](https://github.com/Requarks/wiki-ibm-cloud-foundry)
+- [Install on PikaPods](https://www.pikapods.com/pods?run=wiki-js)
 - [Install using Portainer](/install/portainer)
 {.links-list}
 
